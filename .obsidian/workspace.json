@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "0c8907cdec0b3eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff380970096b7b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d85b3bcdea89dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Tipos de acesso à internet/5g sem fio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5g sem fio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f5790c65b4f19d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "592e2d9ec9b0c87d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e60412dfd6f0eff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fe590f4ab363498e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a1a8a314843223e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "a90b8554ee6d060d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25c90ab278f691e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed1f4308176d51c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Capítulo 1"
+            }
+          },
+          {
+            "id": "87b5136f17a276d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Capítulo 1"
+            }
+          },
+          {
+            "id": "5674d15b502b01fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "071892fe77e86032",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "9cc7b59b2c7359e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Capítulo 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "4d85b3bcdea89dbd",
+  "lastOpenFiles": [
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Tipos de acesso à internet/FTTH.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Tipos de acesso à internet/5g sem fio.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/ONT.md",
+    "Imagens/ONT.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/OLT.md",
+    "Imagens/OLT.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Borda da internet.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/Divisor óptico.md",
+    "Imagens/Divisor óptico.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Tipos de acesso à internet/Acesso à internet via cabo.md",
+    "Imagens/Roteador.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/Roteador.md",
+    "Imagens/CMTS.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/CMTS.md",
+    "Imagens/Nó de fibra.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/Nó de fibra.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/Modem.md",
+    "Imagens/Modem.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/ISP.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Tipos de acesso à internet/DSL.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Tipos de acesso à internet",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Ondas eletromagnéticas.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Ondas de rádio.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Internet.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/Cabo coaxial.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Componentes da internet/Cabo de fibra óptica.md",
+    "Imagens/Acesso Hibrido Fibra_Coaxial.png",
+    "Imagens/DSL.png",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/End system.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Protocolo.md",
+    "Imagens",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Tipos de acesso à internet/Acesso caseiro à internet.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Data centers e Computação em nuvem.md",
+    "Anotações/Computer Networking - A Top-Down Approach/Capítulo 1/Rede.md",
+    "01-How-Linux-Works.pdf",
+    "End Systems.md",
+    "End systems.md",
+    "end systems.md",
+    "[internet.md",
+    "02-Computer-Networking-Top-Down.pdf",
+    "Anotações/Computer Networking - A Top-Down Approach",
+    "Anotações"
+  ]
+}
